@@ -1,0 +1,6 @@
+{
+  "require": {
+    "twig/twig" : "*",
+    "phpunit/phpunit": "^5.7"
+  }
+}
